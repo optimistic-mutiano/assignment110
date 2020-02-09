@@ -1,0 +1,5 @@
+Q1. In your own terms, explain the following:
+1. Front end : The front end, also called “client-side” programming, is what happens in the browser. It's everything the users sees and interacts with. 
+2. Back end : The back end, also called “server-side” programming, happens on the server and the database.
+3. Full stack : A full stack developer is an engineer who can handle all the work of databases, servers, systems engineering, and clients. Depending on the project, what customers need may be a mobile stack, a Web stack, or a native application stack.
+4. Digital marketing : Digital marketing is a way to promote brands and products online and through other digital channels. Most businesses have a specific audience they are trying to reach, and digital marketing aims to help businesses reach these target consumers through the internet and other digital avenues.
