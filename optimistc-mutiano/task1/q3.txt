@@ -1,0 +1,3 @@
+	Difference between UI and UX
+UI stands for user interface, which is the visual/physical aspect. It can be related to front end!
+UX stands for user expeience, which is refered to as the analythical/technic aspect. It can be related to back end!

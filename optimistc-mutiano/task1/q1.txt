@@ -1,0 +1,14 @@
+
+	FRONT END
+With my little knoledge of understanding, Front End can be refer to as the presentaiton layer of a software. 
+It is the visible part of the software that users
+see and interact with directly.
+
+	BACK END
+Back End  is the data access layer where the data provided by users are stored and acted upon by commands or instructions.
+
+	FULL STACK
+Full stacak is the composition of both font end and back end.
+
+	DIGITAL MARKETING
+This is the general pesentation and analysis of the software, where by the whole done is being presented to the users via ads, social media, blogs, and other means of reachng the users.
