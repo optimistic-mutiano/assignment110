@@ -1,0 +1,5 @@
+What's the difference between UI and UX?
+
+Both elements are crucial to a product and work closely together. 
+UI: UI Design stands for User Interface Design.
+UX:  Design refers to the term User Experience Design,

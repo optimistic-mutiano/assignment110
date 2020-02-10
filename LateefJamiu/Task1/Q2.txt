@@ -1,0 +1,8 @@
+Q2. List the tools for each of the items above?
+1. Front end: Vue. js, Chrome Developer Tool, Ionic 2, Node package manager (Npm) tool, TypeScript, Grunt, Meteor, Git Extensions.
+
+2. Back end: Languages & Frameworks, PHP. In the 23 years since its introduction, PHP has become the world's most popular server-side scripting language, Python, Ruby on Rails, Node.js, Laravel, Apache, NGINX.
+
+3. Full stack: CodeKit. It is one of the best web tools for full stack developers, Backbone, Backbone, WebStorm, It provides smart code assistance to JavaScript, CodePen, CodePen is a web development environment for front-end designers and developers, Npm, Grid Guide, TypeScript, Grunt.
+
+4. Digital marketing: Google Trends, Google Keyword Planner, Ahrefs, AppAnnie, Serpstat, SimilarWeb, Buzzsumo, Facebook Audience Insights.
